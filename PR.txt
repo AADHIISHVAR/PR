@@ -12,7 +12,7 @@ Forearm(unit=no. Ofplates) :
 Upper part 3
 #MAX Lower part 8 ( 40kgs)
 
-#DEAD LIFT-90KG + barbell
+#DEAD LIFT-100KG + barbell
 70 ku Tha posture correct ahh iruku
 
 Next week incriment
