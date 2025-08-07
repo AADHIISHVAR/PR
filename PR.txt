@@ -46,7 +46,7 @@ Traps 30+30 kg barbell
 
 *barbell curls* = 7.5kg(b/s) rod
 *thumble curls* =12.5,10,7.5 kg(b/s) dps
-*decline bicep curls* = 10kg(b/s) thumbles
+*preacher curls* = 10kg(b/s) thumbles
 *hammer curls* = 10kg(b/s)
 Concentrate bicep curls on the 10kg
 
